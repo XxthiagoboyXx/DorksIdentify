@@ -1,0 +1,4 @@
+from updateDorks import *
+
+getDorks()
+
