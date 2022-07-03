@@ -1,5 +1,0 @@
-intitle:"index of" ("passenger.*.log" | "passenger.log" | | "production.log" )
-index of /wp-admin.zip
-intitle:"index of" "private_key.pem"
-intitle:"Index of /" inurl:(resume|cv)
-intitle:"index of "cloud-config.yml"

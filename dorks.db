@@ -1,0 +1,64 @@
+index of "fileadmin/php"
+intitle:"index of" "admin-shell"
+site:gov.* intitle:"index of" *.php
+site:gov.* intitle:"index of" *.shell
+site:com.* intitle:"index of" *shell.php
+site:gov.* intitle:"index of" *.db
+site:com.* intitle:"index of" *.db
+site:com.* intitle:"index of" *.sql
+site:.edu intext:"index of" "shell"
+"index of" :.py
+"index of" :.env
+"index of" filetype:env
+"index of" filetype:sql
+"index of" filetype:db
+site:com intitle:index of \..\..\..\..\..\..\..\..\..\etc\passwd
+inurl:*org intitle:"index of" "docker-compose"
+intext:"/webdynpro/resources/sap.com/"
+intitle:"index of" ".env" OR "pass"
+intitle:"HFS" AND intext:"httpfileserver 2.3" AND -intext:"remote"
+ext:java intext:"import org.apache.logging.log4j.Logger;"
+"This system" inurl:login
+intitle:"SAP Web Application Server" logon
+intitle:"index of" "java.log" | "java.logs"
+intitle:index of ./jira-software
+allintext:wp-includes/rest-api
+inurl:/sap/bc/webdynpro/ logon
+intext:"token" filetype:log "authenticate"
+intitle:"index of" "printenv.pl
+intitle:Index of "pyvenv.cfg"
+inurl:webcam site:skylinewebcams.com inurl:roma
+inurl:/doc/page/login.asp?
+intitle:"login" intext:"authorized users only"
+intitle:"Login. MicroStrategy"
+inurl:"microstrategy/servlet/mstrweb"
+inurl:/RDWeb/Pages/en-US/ filetype:aspx ~login
+intitle:"ST Web Client"
+inurl:7001/console intitle:weblogic
+inurl: document/d intext: ssn
+inurl:gitlab "AWS_SECRET_KEY"
+inurl:/_vti_bin/ ext:asmx
+inurl:/_layouts "[To Parent Directory]"
+intitle:"ManageEngine Desktop Central 10" AND (inurl:configurations OR inurl:authorization)
+inurl:"/sap/admin/public"
+sap/bc/ui5_ui5/ui2/ushell/shells/abap/FioriLaunchpad.html -site:sap.com
+site:.com intitle:"index of" /payments.txt
+intitle:index of "error_log"
+site:.com intitle:"index of" /paypal
+site:cloudfront.net inurl:d
+site:amazonaws.com inurl:elb.amazonaws.com
+intitle:"index of "docker-compose.yml"
+intitle:"index of" "keystore.jks"
+site:*.com "index of" error_logs
+site:.com intitle:"index of" /ipa
+intitle:"index of" aws/
+intitle:"index of" "catalina.out"
+intitle:"index of" include/
+intitle:"index of" /gscloud
+intitle:"index of" ("passenger.*.log" | "passenger.log" | | "production.log" )
+index of /wp-admin.zip
+intitle:"index of" "private_key.pem"
+intitle:"Index of /" inurl:(resume|cv)
+intitle:"index of "cloud-config.yml"
+intitle:[TM4Web] inurl:login.msw
+7961

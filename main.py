@@ -1,4 +1,8 @@
 from updateDorks import *
+from searchDorks import *
 
-getDorks()
+getDorks() #take dorks online
 
+
+#getListInFile()
+#searchDorks()
