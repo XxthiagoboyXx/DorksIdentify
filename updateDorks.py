@@ -2,6 +2,7 @@ from requests_html import HTMLSession
 from bs4 import BeautifulSoup
 import re
 
+
 def getDorks():
     site = 'https://www.exploit-db.com/ghdb/'
     session = HTMLSession()

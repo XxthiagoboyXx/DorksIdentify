@@ -16,6 +16,7 @@ def searchDorks():
       print("error!! ", e)
     print('\n')
 
+
 def getListInFile():
   with open("dorks.db") as file:
     data = file.readlines()
