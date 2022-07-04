@@ -1,8 +1,11 @@
 from updateDorks import *
 from searchDorks import *
 
-getDorks() #take dorks online
 
+if __name__ == "__main__":
+    #getDorks() #get dorks online
 
-#getListInFile()
-#searchDorks()
+    #getListInFile()
+
+    #getListInFile()
+    searchDorks()
